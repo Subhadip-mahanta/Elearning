@@ -1,0 +1,49 @@
+
+*{
+    box-sizing: border-box;
+}
+
+.custom-nav-item{
+    display: block;
+    text-align: center;
+    background-color: rgb(19, 19, 19);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+/* nav ends here */
+/* starts banner here */
+.carousel-image{
+    opacity: 0.9;
+    height: 400px;
+}
+
+/* ends banner here */
+
+/* start popular courses */
+.row2{
+    background-color: white;
+    padding: 2px;
+    color: black;
+    margin-left: 2px;
+    text-align: center;
+}
+.row2 div{
+    
+    margin:5px;
+}
+.row2 div img{
+    height: 200px;
+    width: 300px;
+}
+
+/* ends popular courses */
+
+/* start contact here */
+.stripe{
+    display: none;
+}
+/* end contact here */
+

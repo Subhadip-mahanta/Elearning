@@ -1,0 +1,12 @@
+
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+}
+.MyNav{
+    padding-left: 40px;
+}
+
+/* nav ends here */

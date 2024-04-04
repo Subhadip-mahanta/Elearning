@@ -1,0 +1,72 @@
+
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+
+
+.brand-text{
+    color: red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 5px 1px 12px rgb(210, 55, 55);
+    font-size: 2em;
+}
+.MyNav{
+    padding-left: 30px;
+}
+.custom-nav-item a{
+    color: white;
+}
+
+.custom-nav-item:hover{
+    background-color: #dc3545;
+    border: solid #dc3545 1px;
+    border-radius: 10px;
+}
+
+/* nav ends here */
+
+/* starts banner here */
+.carousel-image{
+    opacity: 0.9;
+    height: 600px;
+}
+
+/* ends banner here */
+/* starts text banner */
+.row1{
+    background-color: white;
+    padding: 10px;
+    color: black;
+    margin-left: 30px;
+    text-align: center;
+}
+/* ends text banner */
+/* start popular courses */
+.row2{
+    background-color: white;
+    padding: 10px;
+    color: black;
+    margin-left: 40px;
+    text-align: center;
+}
+.row2 div{
+    
+    margin:10px;
+}
+/* ends popular courses */
+
+/* start contact here */
+.stripe{
+    background-image: linear-gradient(240deg,#ed213a, #93291e);
+    padding: 3rem;
+    height: 13rem;
+    margin-top: 4rem;
+    transform: rotate(10deg);
+    z-index: -5;
+}
+/* end contact here */
